@@ -17,6 +17,7 @@ public class input {
         System.out.println("My age is: " + age);
         System.out.println("My Float Number is: " + f);
         System.out.println("My BigNumber is: " + bg);
+        // it is necessary becouse it prevent  to resourse leak
         sc.close();
     }
 }
