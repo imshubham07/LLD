@@ -1,3 +1,5 @@
+package Basics;
+
 public class first{
      
     //for main function shortcut (psvm)
