@@ -1,6 +1,6 @@
 package Array;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class ArrayQues {
     public static void main(String[] args) {

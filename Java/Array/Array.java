@@ -5,13 +5,13 @@ public class Array {
     public static void main(String[] args) {
         //Declearation of an array
 
-    int arr[];
-    int[] brr;
+    // int arr[];
+    // int[] brr;
 
 
     //Alocation of Array
-    arr = new int[10];  
-    brr = new int[12];
+    // arr = new int[10];  
+    // brr = new int[12];
 
 
     //Initialisation of an Array
